@@ -1,4 +1,4 @@
-# Jogo de Ritmo Estilo Guitar Hero
+# Space Light
 
 Este é um projeto de um jogo de ritmo estilo Guitar Hero desenvolvido em Unity. O jogo permite que os jogadores acertem notas musicais no momento certo para obter pontuação.
 
