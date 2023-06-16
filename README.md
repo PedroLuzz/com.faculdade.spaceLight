@@ -34,9 +34,7 @@ Contribuições são bem-vindas! Se você quiser contribuir com melhorias para o
 
 ## Contato
 
-- Email: seuemail@example.com
-- Twitter: [@seuperfil](https://twitter.com/seuperfil)
-- LinkedIn: [Seu Nome](https://www.linkedin.com/in/seunome/)
+- Email: pedrohenriqueluzg@gmail.com
 
 Sinta-se à vontade para atualizar ou modificar este arquivo README de acordo com as necessidades específicas do seu projeto. Ele serve como um guia para os usuários entenderem o objetivo do projeto, como usá-lo e como contribuir para o seu desenvolvimento.
 
